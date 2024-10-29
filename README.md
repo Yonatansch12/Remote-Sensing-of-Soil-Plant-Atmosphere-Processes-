@@ -4,8 +4,8 @@ Final Project on Remote Sensing of Soil-Plant-Atmosphere Processes
 You can find the project in the PDF file with link to python code.
 
 ------------------------------------------------------------------------------------------------------------
-The given instructions:
-Instructions for final project SPAP:
+
+The given instructions for final project SPAP:
 
 Make sure you understand the class explanations on generating a height
 your assignment is to prepare and present the following:
